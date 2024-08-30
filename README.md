@@ -1,0 +1,2 @@
+Titanic Survival Prediction
+This project leverages the Titanic dataset to predict passenger survival outcomes. Using features such as age, gender, ticket class, fare, and cabin details, the model aims to determine whether a passenger survived the ill-fated voyage. A classic beginner's machine learning challenge, this project provides hands-on experience with data preprocessing, feature engineering, and classification algorithms. Dive into this dataset to explore the factors influencing survival and develop predictive models with real-world implications.
